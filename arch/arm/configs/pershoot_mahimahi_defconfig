@@ -1,7 +1,7 @@
 #
 # Automatically generated make config: don't edit
 # Linux/arm 2.6.38.8 Kernel Configuration
-# Fri Jun  3 20:02:25 2011
+# Mon Jan  2 11:01:35 2012
 #
 CONFIG_ARM=y
 CONFIG_SYS_SUPPORTS_APM_EMULATION=y
@@ -42,7 +42,7 @@ CONFIG_HAVE_KERNEL_LZO=y
 # CONFIG_KERNEL_GZIP is not set
 CONFIG_KERNEL_LZMA=y
 # CONFIG_KERNEL_LZO is not set
-# CONFIG_SWAP is not set
+CONFIG_SWAP=y
 # CONFIG_SYSVIPC is not set
 # CONFIG_POSIX_MQUEUE is not set
 # CONFIG_BSD_PROCESS_ACCT is not set
